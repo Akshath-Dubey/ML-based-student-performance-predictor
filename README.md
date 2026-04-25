@@ -33,6 +33,10 @@ An interactive ML-powered dashboard that predicts student academic performance b
 
 ## 📊 Dataset
 
+**Source:** [Kaggle - xAPI-Edu-Data](https://www.kaggle.com/datasets/aljarah/xAPI-Edu-Data)
+
+**University:** The University of Jordan
+
 **File:** `AI-Data.csv`
 
 | Feature              | Description                                      |
